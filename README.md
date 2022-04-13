@@ -15,4 +15,3 @@ Repo including scans, scripts, & customizations for the [Flipper Zero](https://f
         . . . . .          `-.:
        . . . ./  - .          )
       .  . . |  _____..---.._/ ________ _
-~---~~~~----~~~~             ~~~~~
