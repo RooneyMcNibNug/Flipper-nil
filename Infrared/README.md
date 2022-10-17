@@ -21,11 +21,20 @@ All buttons for the Samsung BN59-01301A TV Remote
 <img src="https://i.imgur.com/A6a7cEy.jpg" width="200"/>
 All buttons for the GPX Compact Disc Home Music System (MODEL #: HM2514DP)
 
+****
 
 #### [LED_BELEUCHTUNGS.ir](https://github.com/RooneyMcNibNug/Flipper-nil/blob/main/Infrared/LED_BELEUCHTUNGS.ir)
 <img src="https://i.imgur.com/DkNpdLh.jpg" width="200"/>
 All buttons for Beleuchtungs Countertop LED Lights  (MODEL #: NP-RGBURC)
 
+****
+
 #### [IhomeRz6.ir](https://github.com/RooneyMcNibNug/Flipper-nil/blob/main/Infrared/IhomeRz6.ir)
 <img src="https://i.imgur.com/N46s30l.jpg" width="200"/>
 All buttons for the iHome iPod System (Rz6 Model)
+
+****
+
+#### [bluray_remote.ir](https://github.com/RooneyMcNibNug/Flipper-nil/blob/main/Infrared/bluray_remote.ir)
+<img src="https://i.imgur.com/gsZww7g.jpg" width="200"/>
+All buttons for a generic blu-ray player remote (MODEL #: AKB73615801)
