@@ -7,4 +7,8 @@
 - Only lights on/off was captured :(
 - Freq: 433.920 MHz
 
-****
+#### [Xmas_lights_remote_control](https://github.com/RooneyMcNibNug/Flipper-nil/tree/main/SubGhz/Xmas_lights_remote_control)
+- "Kasonic Wireless Outdoor Remote Control Outlets with Timer and Sensor Function"
+- Model No: BHC1804-TL-RF
+- Freq: 433.92 MHz
+
