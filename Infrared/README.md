@@ -38,3 +38,11 @@ All buttons for the iHome iPod System (Rz6 Model)
 #### [bluray_remote.ir](https://github.com/RooneyMcNibNug/Flipper-nil/blob/main/Infrared/bluray_remote.ir)
 <img src="https://i.imgur.com/gsZww7g.jpg" width="200"/>
 All buttons for a generic blu-ray player remote (MODEL #: AKB73615801)
+
+****
+
+#### [Dyson_purifier.ir](https://github.com/RooneyMcNibNug/Flipper-nil/blob/main/Infrared/Dyson_purifier.ir)
+<img src="https://i.imgur.com/AKPFily.jpg" width="200"/>
+All buttons for Dyson Pure Hot+Cool HP01 Air Purifier
+
+****
